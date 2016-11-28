@@ -1,2 +1,2 @@
 # autotest
-exam for automation testing
+practise for automation testing
